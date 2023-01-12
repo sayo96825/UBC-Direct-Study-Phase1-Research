@@ -1,4 +1,4 @@
-# UBCO-Direct-Study-Phase1-Research:
+# UBC-Direct-Study-Phase1-Research:
 ## Understanding the escalation of ageism in Social Media during Covid-19 pandemic using content, sentiment and network analysis
 
 This is the first phase of the two phases project proposed in UBCO Social Computing direct study. 
